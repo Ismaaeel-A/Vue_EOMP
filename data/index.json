@@ -1,0 +1,171 @@
+{
+    "jobTitle": [
+        "Ismaa'eel Ahmed", "Aspiring Developer"
+    ],
+
+    "about": [{
+        "heading": "About",
+
+        "p1": "Hi, I'm Ismaaeel Ahmed, a passionate and creative web designer with a love for crafting beautiful, user-friendly digital experiences. My approach to web design is centered around understanding the needs of my clients and their users. I take the time to listen, learn, and collaborate to ensure that every project meets its goals and exceeds expectations.My expertise includes:",
+
+        "list-item-1": "Responsive web design and development",
+        "list-item-2": "User experience (UX) and user interface (UI) design",
+        "list-item-3": "Web accessibility and usability",
+        "list-item-4": "HTML, CSS and various web development frameworks",
+
+        "p2": "I'm constantly seeking new ways to improve my craft, staying up-to-date with the latest design trends, technologies, and best practices.My passion for web design is matched only by my passion for delivering exceptional results and building long - lasting relationships with my clients. I'm excited to share my work with you and explore how I can help bring your web design vision to life!"
+    }],
+
+
+    "education": [{
+            "heading": "Education and Experience",
+
+            "subheading-1": "High School",
+
+            "p1": "I matriculated in 2022, with a Bachellors pass with Pure math, physics, IT (information technology) and EGD(Engineering and Graphic Design) being my subject course. Delphi was the coding Language we used in combination with SQL(where necessary)."
+        },
+
+        {
+            "subheading-2": "Post School",
+
+            "p2": "After matric I took a gap year to do islamic studies and ended up doing the 'Mindful Muslims' course under the renowned Sheikh Ismail Londt at the DU Centre.  It was a 1 year course focusing the history of Islam, the Quran and its teachings and how to live life as a muslim. The course also offered life skill sessions which ranged from gardening and exercise to plumbing and electrical work."
+        },
+
+        {
+            "subheading-3": "Current Endeavours",
+
+            "p3": "I am currently studying at Life Choices Academy. This is an amazing opportunity to learn how to be a developer, being taught both frontend and backend development. In addition there is a weekly mindset training session where we are taught methods to have a winner mindset.My goal for this course is to become a fully capable fullstack developer."
+        },
+
+        {
+            "subheading-4": "Self Study",
+
+            "p4": "I have been doing self study work on HTML and CSS in order to improve my skills and proficiency with them.I make use of websites such as w3schools, freecodecamp and youtube videos in order to learn new techniques, features and to gain a complete understanding of how the components of a website work.With this acquired knowledge attempt at making my own projects, incorparating the new - found knowledge."
+        }
+
+    ],
+
+    "skills": [{
+            "heading": "Skills"
+        },
+
+        {
+            "subheading-1": "HTML",
+            "level": "Level: Novice+",
+            "p": "Capable of using components to making layouts, still improving - 6 months experience"
+        },
+
+        {
+            "subheading-2": "CSS",
+            "level": "Level: Intemediate",
+            "p": "Good understanding of selectors, properties, psuedo-classes - 6 months experience"
+        },
+
+        {
+            "subheading-3": "Graphic Design",
+            "level": "Level: Novice+",
+            "p": "Able to design but lack speed - 3 years experience"
+        },
+
+        {
+            "subheading-4": "Delphi",
+            "level": "Level: Intermediate",
+            "p": "Decent understanding of components, loops, arrays, etc - 3 years experience"
+        },
+
+        {
+            "subheading-5": "SQL",
+            "level": "evel: Novice+",
+            "p": "A basic understanding of the commands - 1 year experience"
+        },
+
+        {
+            "subheading-6": "JS",
+            "level": "Level: Beginner",
+            "p": "Bare basics, just started - 1 week experience"
+        }
+    ],
+
+    "projects": [
+        {
+            "heading": "Projects"
+        },
+
+        {
+            "id": "",
+            "img": "",
+            "title": "",
+            "description": "",
+            "github": "",
+            "vercel": ""
+        },
+
+    ],
+    "projects": [
+        {
+            "heading": "Projects"
+        },
+
+        {
+            "id": "1",
+            "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-keyboard.webp",
+            "title": "Keyboard",
+            "description": "A keyboard made using HTML/CSS and animations.",
+            "github": "https://github.com/Ismaaeel-A/Keyboard.git",
+            "vercel": "https://keyboard-iyln.vercel.app/"
+        },
+
+        {
+            "id": "2",
+            "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-calculator.jpg",
+            "title": "Calculator",
+            "description": "A non-functioning calulator made using HTML and CSS.",
+            "github": "https://github.com/Ismaaeel-A/Calculator.git",
+            "vercel": "https://calculator-rust-mu.vercel.app/"
+        },
+
+        {
+            "id": "3",
+            "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-form.png",
+            "title": "Form",
+            "description": "A functioning form using HTML and CSS.",
+            "github": "https://github.com/Ismaaeel-A/PE-form.git",
+            "vercel": "https://pe-form.vercel.app/"
+        },
+
+        {
+            "id": "4",
+            "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-quiz.jpg",
+            "title": "Quiz",
+            "description": "A simple quiz page using HTML and CSS.",
+            "github": "https://github.com/Ismaaeel-A/PE-quiz.git",
+            "vercel": "https://pe-quiz-one.vercel.app/"
+        },
+
+        {
+            "id": "5",
+            "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-menu.png",
+            "title": "Menu",
+            "description": "A simple menu design making use of HTML and CSS.",
+            "github": "https://github.com/Ismaaeel-A/PE-menu.git",
+            "vercel": "https://pe-menu-97bz.vercel.app/"
+        },
+
+        {
+            "id": "6",
+            "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-ferrisWheel.jpg",
+            "title": "Ferris Wheel",
+            "description": "An animated ferris wheel using HTML/CSS/keyframes.",
+            "github": "https://github.com/Ismaaeel-A/PE-ferrisWheel.git",
+            "vercel": "https://pe-ferris-wheel.vercel.app/"
+        }
+
+    ],
+
+
+
+
+
+
+    "testimonials": []
+}
