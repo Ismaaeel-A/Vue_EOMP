@@ -107,7 +107,7 @@
         },
 
         {
-            "id": "1",
+            "id": 1,
             "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-keyboard.webp",
             "title": "Keyboard",
             "description": "A keyboard made using HTML/CSS and animations.",
@@ -116,7 +116,7 @@
         },
 
         {
-            "id": "2",
+            "id": 2,
             "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-calculator.jpg",
             "title": "Calculator",
             "description": "A non-functioning calulator made using HTML and CSS.",
@@ -125,7 +125,7 @@
         },
 
         {
-            "id": "3",
+            "id": 3,
             "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-form.png",
             "title": "Form",
             "description": "A functioning form using HTML and CSS.",
@@ -134,7 +134,7 @@
         },
 
         {
-            "id": "4",
+            "id": 4,
             "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-quiz.jpg",
             "title": "Quiz",
             "description": "A simple quiz page using HTML and CSS.",
@@ -143,7 +143,7 @@
         },
 
         {
-            "id": "5",
+            "id": 5,
             "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-menu.png",
             "title": "Menu",
             "description": "A simple menu design making use of HTML and CSS.",
@@ -152,7 +152,7 @@
         },
 
         {
-            "id": "6",
+            "id": 6,
             "img": "https://ismaaeel-a.github.io/allimages/Images/Pr-ferrisWheel.jpg",
             "title": "Ferris Wheel",
             "description": "An animated ferris wheel using HTML/CSS/keyframes.",
@@ -167,5 +167,51 @@
 
 
 
-    "testimonials": []
+    "testimonials": [
+        {
+            "heading": "Testimonials"
+        },
+
+        {
+            "id": 1,
+            "image": "https://ismaaeel-a.github.io/allimages/Images/P-joel.jpg",
+            "personName": "Joel Mukanya",
+            "comment": "Ismaaeel is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with his peers and excels at working on project assignments. He has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I ampleased to introduce him as an exceptional candidate and developer."
+        },
+
+        {
+            "id": 2,
+            "image": "https://ismaaeel-a.github.io/allimages/Images/P-abdu.jpeg",
+            "personName": "Abdurahmaan Charif",
+            "comment": "Ismaaeel is an insightful individual who's creativity knows no bounds. I have the pleasure of working alongside him where he has displayed a wealth of knowledge and a good-hearted nature making it truly pleasant to work with him. Ismaeel will be an asset to any team and organization that he will belong to."
+        },
+
+        {
+            "id": 3,
+            "image": "https://ismaaeel-a.github.io/allimages/Images/P-zizipho.jpg",
+            "personName": "Zizipho",
+            "comment": "Ismaaeel is a very good classmate and friend. He is always willing to land a helping hand. He is easy to approach and help in any situation. He avails himself for anyone's needs and is very selfless. It is a pleasure to work with him as he is very respectful and polite. He is very driven and focused and that is most commendable about him. He is overall a great individual."
+        },
+
+        {
+            "id": 4,
+            "image": "https://ismaaeel-a.github.io/allimages/Images/P-nizaam.jpg",
+            "personName": "Nizaam Jeftha",
+            "comment": "Ismaaeel is extremely talented as a developer but is also the kind of friend who goes above and beyond to support those around him. He is a very dedicated and hardworking individual who always strives for perfection and does not allow failure to get in his way."
+        },
+
+        {
+            "id": 5,
+            "image": "https://ismaaeel-a.github.io/allimages/Images/P-imaraan.jpg",
+            "personName": "Imaraan",
+            "comment": "Behind his initial shyness lies a passionate intellect, particularly evident in his fervor for web development. He approaches challenges with a unique perspective, often finding innovative solutions with meticulous attention to detail. Ismaaeel's humility is striking, as he remains approachable and eager to help others despite his remarkable talents making him a valuable asset to any team fortunate enough to have him."
+        },
+
+        {
+            "id": 6,
+            "image": "https://ismaaeel-a.github.io/allimages/Images/P-mordecai.jpg",
+            "personName": "Mordecai Dimbu",
+            "comment": "Ismaaeel is a hardworking, approachable individual known for his willingness to help others. He excels in problem-solving and is highly recommended for roles that value these qualities."
+        },
+    ]
 }
