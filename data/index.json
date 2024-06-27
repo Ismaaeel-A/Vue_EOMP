@@ -1,6 +1,7 @@
 {
     "jobTitle": [
-        "Ismaa'eel Ahmed", "Aspiring Developer"
+        {"name":"Ismaa'eel Ahmed",
+        "title":"Aspiring Developer"}
     ],
 
     "about": [{
