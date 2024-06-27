@@ -85,24 +85,7 @@
             "p": "Bare basics, just started - 1 week experience"
         }
     ],
-
-    "projects": [
-        {
-            "heading": "Projects"
-        },
-
-        {
-            "id": "",
-            "img": "",
-            "title": "",
-            "description": "",
-            "github": "",
-            "vercel": ""
-        },
-
-    ],
-    "projects": [
-        {
+    "projects": [{
             "heading": "Projects"
         },
 
@@ -167,8 +150,7 @@
 
 
 
-    "testimonials": [
-        {
+    "testimonials": [{
             "heading": "Testimonials"
         },
 
@@ -212,6 +194,6 @@
             "image": "https://ismaaeel-a.github.io/allimages/Images/P-mordecai.jpg",
             "personName": "Mordecai Dimbu",
             "comment": "Ismaaeel is a hardworking, approachable individual known for his willingness to help others. He excels in problem-solving and is highly recommended for roles that value these qualities."
-        },
+        }
     ]
 }
